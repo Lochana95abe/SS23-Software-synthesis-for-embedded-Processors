@@ -1,0 +1,8 @@
+abstract
+Introduction - what is sortware synthesis for software of embeded processors,
+               History
+               computer language
+               assembly language
+               Higher  level language
+               
+               
